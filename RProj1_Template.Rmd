@@ -68,6 +68,7 @@ I'm some text, you should replace me with more meaningful text...
 
 ```{r}
 
+  summarize(r = cor(x, y))
 
 ```
 
